@@ -26,6 +26,7 @@ None
 * 2.0.0 Compatible with Stellaris version 3.0.3
 * 2.0.1 Update README
 * 2.0.2 Remove extra linebreaks README
+* 2.0.3 Fix source link
 
 ## Bug Report
 
@@ -33,7 +34,7 @@ Another Stellaris player helpfully filed a bug report for this issue. Please vis
 
 ## Source Code
 
-[Hosted on Github](https://github.com/corsairmarks/technician_slave_fix)
+[Hosted on Github](https://github.com/corsairmarks/manifesti_fix)
 
 ### Development Notes
 
