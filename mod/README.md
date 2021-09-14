@@ -4,15 +4,17 @@ Are the Manifesti extremely unhappy with you?  This mod will help you make them 
 
 # Changes
 
-This mod replaces the `common/pop_faction_types/03_manifesti.txt` file that defines the Manifesti faction.  The only changes are to replace the conditions to satisfy the "Personal Autonomy for Munitions" demand.  It previously was requiring the technology "Autonomous Combat Computers" and at least 1 ship with a computer component that was unlocked by the technology.  However, this technology is restricted to gestalt empires, which can't have factions!  The intent seems to be that the Manifesti want weapons to be able to decide their own use, which for non-gestalt empires would be accomplished with the "Sapient Combat Computers" technology.  The relevant references are changed to refer to this technology and the Sapient computer components unlocked by it.
+This mod replaces the `common/pop_faction_types/00_manifesti.txt` file that defines the Manifesti faction.  The only changes are to replace the conditions to satisfy the "Personal Autonomy for Munitions" demand.  It previously was requiring the technology "Autonomous Combat Computers" and at least 1 ship with a computer component that was unlocked by the technology.  However, this technology is restricted to gestalt empires, which can't have factions!  The intent seems to be that the Manifesti want weapons to be able to decide their own use, which for non-gestalt empires would be accomplished with the "Sapient Combat Computers" technology.  The relevant references are changed to refer to this technology and the Sapient computer components unlocked by it.
 
 ## Compatibility
+
+Built for Stellaris version 3.1.* "Lem."
  
 Because it replaces a core Stellaris file, this mod is inherently incompatible with any other mods that overwrite the same file.  Generally, any mod that alters the Manifesti faction will not be compatible with this one.  Altering other factions should work as expected because they are defined in other files.
 
 This mod is not compatible with achievements because it overwrites a core Stellaris file.
 
-### Post-Game Start
+### When to Install
 
 This mod can be safely added or removed from your savegame after the game has started.  It only alters the Manifesti faction and will not alter your savegame.  If you remove it, your game will work normally.
 
@@ -27,6 +29,7 @@ None
 * 2.0.1 Update README
 * 2.0.2 Remove extra linebreaks README
 * 2.0.3 Fix source link
+* 3.0.0 Updated for Stellaris version 3.1.* "Lem" - no changes to what the mod does, just integrated the underlying game changes
 
 ## Bug Report
 
@@ -34,7 +37,7 @@ Another Stellaris player helpfully filed a bug report for this issue. Please vis
 
 ## Source Code
 
-[Hosted on Github](https://github.com/corsairmarks/manifesti_fix)
+Hosted on [GitHub](https://github.com/corsairmarks/manifesti_fix)
 
 ### Development Notes
 
