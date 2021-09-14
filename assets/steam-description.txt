@@ -1,6 +1,6 @@
 [h1]Overview[/h1]
 
-Are the Manifesti extremely unhappy with you?  This mod will help you make them quite a bit happier by fixing the impossible-to-fulfill "Personal Autonomy for Munitions" demand.  Please note that part of the demand _also_ requires having 0 slave armies and 0 undead armies - something that seems to be intentionally left vague in the tooltip by the developers.
+Are the Manifesti extremely unhappy with you?  This mod will help you make them quite a bit happier by fixing the impossible-to-fulfill "Personal Autonomy for Munitions" demand.  Please note that part of the demand [i]also[/i] requires having 0 slave armies and 0 undead armies - something that seems to be intentionally left vague in the tooltip by the developers.
 
 [h1]Changes[/h1]
 
