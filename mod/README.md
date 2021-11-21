@@ -8,11 +8,9 @@ This mod replaces the `common/pop_faction_types/00_manifesti.txt` file that defi
 
 ## Compatibility
 
-Built for Stellaris version 3.1.* "Lem."
- 
 Because it replaces a core Stellaris file, this mod is inherently incompatible with any other mods that overwrite the same file.  Generally, any mod that alters the Manifesti faction will not be compatible with this one.  Altering other factions should work as expected because they are defined in other files.
 
-This mod is not compatible with achievements because it overwrites a core Stellaris file.
+Built for Stellaris version 3.2.* "Herbert."  This mod is not compatible with achievements because it overwrites a core Stellaris file.
 
 ### When to Install
 
@@ -29,7 +27,8 @@ None
 * 2.0.1 Update README
 * 2.0.2 Remove extra linebreaks README
 * 2.0.3 Fix source link
-* 3.0.0 Updated for Stellaris version 3.1.* "Lem" - no changes to what the mod does, just integrated the underlying game changes
+* 3.0.0 Updated for Stellaris version 3.1 "Lem" - no changes to what the mod does, just integrated the underlying game changes
+* 4.0.0 Updated for Stellaris version 3.1 "Herbert" - no changes to what the mod does, just integrated the underlying game changes
 
 ## Bug Report
 
