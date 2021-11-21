@@ -162,6 +162,10 @@ manifesti = {
 						has_technology = tech_noxious_swamp
 						any_owned_planet = { has_deposit = d_noxious_swamp }
 					}
+					AND = {
+						has_technology = tech_toxic_kelp
+						any_owned_planet = { has_deposit = d_toxic_kelp }
+					}
 					any_owned_planet = {
 						has_planet_flag = planet_earth
 						NOT = { has_deposit = d_great_pacific_garbage_patch }

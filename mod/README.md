@@ -6,6 +6,8 @@ Are the Manifesti extremely unhappy with you?  This mod will help you make them 
 
 This mod replaces the `common/pop_faction_types/00_manifesti.txt` file that defines the Manifesti faction.  The only changes are to replace the conditions to satisfy the "Personal Autonomy for Munitions" demand.  It previously was requiring the technology "Autonomous Combat Computers" and at least 1 ship with a computer component that was unlocked by the technology.  However, this technology is restricted to gestalt empires, which can't have factions!  The intent seems to be that the Manifesti want weapons to be able to decide their own use, which for non-gestalt empires would be accomplished with the "Sapient Combat Computers" technology.  The relevant references are changed to refer to this technology and the Sapient computer components unlocked by it.
 
+The Manifesti also want you to allow water to exist in a variety of blockers.  This mod also allows "Toxic Kelp" to satisfy the relevant demand.
+
 ## Compatibility
 
 Because it replaces a core Stellaris file, this mod is inherently incompatible with any other mods that overwrite the same file.  Generally, any mod that alters the Manifesti faction will not be compatible with this one.  Altering other factions should work as expected because they are defined in other files.
