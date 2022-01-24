@@ -1,3 +1,5 @@
+**_DEPRECATED:_** Paradox has applied this fix in 3.3.0 "Libra" - if you have that version or higher, you do not need this mod.  It remains listed for players who choose to play the 3.2.* "Herbert" versions of Stellaris.
+
 # Overview
 
 Are the Manifesti extremely unhappy with you?  This mod will help you make them quite a bit happier by fixing the impossible-to-fulfill "Personal Autonomy for Munitions" demand.  Please note that part of the demand _also_ requires having 0 slave armies and 0 undead armies - something that seems to be intentionally left vague in the tooltip by the developers.
@@ -31,6 +33,7 @@ None
 * 2.0.3 Fix source link
 * 3.0.0 Updated for Stellaris version 3.1 "Lem" - no changes to what the mod does, just integrated the underlying game changes
 * 4.0.0 Updated for Stellaris version 3.1 "Herbert" - no changes to what the mod does, just integrated the underlying game changes
+* 4.0.1 Mark as deprecated - unnecessary in Stellaris 3.3.0 "Libra" and higher
 
 ## Bug Report
 
