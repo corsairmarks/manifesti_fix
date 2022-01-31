@@ -1,4 +1,4 @@
-[b][i]DEPRECATED:[/i][/b] Paradox has applied this fix in 3.3.0 "Libra" - if you have that version or higher, you do not need this mod.  It remains listed for players who choose to play the 3.2.* "Herbert" versions of Stellaris.
+[b][i]DEPRECATED:[/i][/b] Paradox has applied this fix in 3.3 "Libra" - if you have that version or higher, you do not need this mod.  It remains listed for players who choose to play the 3.2 "Herbert" versions of Stellaris.
 
 [h1]Overview[/h1]
 Are the Manifesti extremely unhappy with you?  This mod will help you make them quite a bit happier by fixing the impossible-to-fulfill "Personal Autonomy for Munitions" demand.  Please note that part of the demand [i]also[/i] requires having 0 slave armies and 0 undead armies - something that seems to be intentionally left vague in the tooltip by the developers.
@@ -11,7 +11,7 @@ The Manifesti also want you to allow water to exist in a variety of blockers.  T
 [h2]Compatibility[/h2]
 Because it replaces a core Stellaris file, this mod is inherently incompatible with any other mods that overwrite the same file.  Generally, any mod that alters the Manifesti faction will not be compatible with this one.  Altering other factions should work as expected because they are defined in other files.
 
-Built for Stellaris version 3.2.* "Herbert."  This mod is not compatible with achievements because it overwrites a core Stellaris file.
+Built for Stellaris version 3.2 "Herbert."  This mod is not compatible with achievements because it overwrites a core Stellaris file.
 
 [h3]When to Install[/h3]
 This mod can be safely added or removed from your savegame after the game has started.  It only alters the Manifesti faction and will not alter your savegame.  If you remove it, your game will work normally.

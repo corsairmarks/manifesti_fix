@@ -1,4 +1,4 @@
-**_DEPRECATED:_** Paradox has applied this fix in 3.3.0 "Libra" - if you have that version or higher, you do not need this mod.  It remains listed for players who choose to play the 3.2.* "Herbert" versions of Stellaris.
+**_DEPRECATED:_** Paradox has applied this fix in 3.3 "Libra" - if you have that version or higher, you do not need this mod.  It remains listed for players who choose to play the 3.2 "Herbert" versions of Stellaris.
 
 # Overview
 
@@ -14,7 +14,7 @@ The Manifesti also want you to allow water to exist in a variety of blockers.  T
 
 Because it replaces a core Stellaris file, this mod is inherently incompatible with any other mods that overwrite the same file.  Generally, any mod that alters the Manifesti faction will not be compatible with this one.  Altering other factions should work as expected because they are defined in other files.
 
-Built for Stellaris version 3.2.* "Herbert."  This mod is not compatible with achievements because it overwrites a core Stellaris file.
+Built for Stellaris version 3.2 "Herbert."  This mod is not compatible with achievements because it overwrites a core Stellaris file.
 
 ### When to Install
 
@@ -33,7 +33,7 @@ None
 * 2.0.3 Fix source link
 * 3.0.0 Updated for Stellaris version 3.1 "Lem" - no changes to what the mod does, just integrated the underlying game changes
 * 4.0.0 Updated for Stellaris version 3.1 "Herbert" - no changes to what the mod does, just integrated the underlying game changes
-* 4.0.1 Mark as deprecated - unnecessary in Stellaris 3.3.0 "Libra" and higher
+* 4.0.1 Mark as deprecated - unnecessary in Stellaris 3.3 "Libra" and higher
 
 ## Bug Report
 
